@@ -1,0 +1,21 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0vw 8vw;
+    height: 10vh;
+    align-items: center;
+}
+
+.nav-logo{
+    width: 4vw;
+    /* height: 2; */
+   
+}
+
+.nav-options-container{
+    display: flex;
+    width: 30vw;
+    justify-content: space-around;
+    font-size: 1.2vw;
+    font-weight: 500;
+}
